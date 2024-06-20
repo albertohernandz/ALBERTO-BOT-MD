@@ -1,0 +1,28 @@
+{
+  "name": "alberto-bot-md",
+  "version": "1.0.0",
+  "description": "WhatsApp bot multi-device",
+  "main": "alberto-bot.js",
+  "scripts": {
+    "start": "node alberto-bot"
+  },
+  "keywords": [
+    "Bot multi-device",
+    "Alberto-Bot multi-device",
+    "Alberto-Bot-WA",
+    "Alberto-Bot",
+    "Bot multimedia",
+    "WhatsApp Bot",
+    "WhatsApp Bot 2024",
+    "NodeJs",
+    "JS"
+  ],
+  "author": "Alberto Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5",
+    "figlet": "^1.7.0",
+    "gradient-string": "^2.0.2",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
